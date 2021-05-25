@@ -14,3 +14,7 @@ Once I created the repository on GitHub I created a directory on my local machin
  - git commit -m "added html file"
  - git push 
     (staged and pushed to the remote repository on github updates and new files)
+ - git add .
+    (added this text file to the repo)
+ - git commit -m "gitcommands.txt assignment added"
+ - git push
