@@ -1,0 +1,16 @@
+Once I created the repository on GitHub I created a directory on my local machine.
+ - cd to the parent directory
+ - mkdir basic_repo
+ Then I initalized the git repostory on my local machine. And began to work in it.
+ - git init
+ - git remote add origin https://github.com/NKDenni/basic_repo.git
+ - git add 
+    (added files to the staging area of the local repository)
+ - git commit -m "First commit"
+ - git push
+ - git status (to confirm that the status of my files were in fact uploaded to the remote repository.)
+ Continued work on local files and made some changes.
+ - git add
+ - git commit -m "added html file"
+ - git push 
+    (staged and pushed to the remote repository on github updates and new files)
